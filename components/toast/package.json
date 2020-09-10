@@ -1,0 +1,19 @@
+{
+  "name": "@za/react-toast",
+  "version": "1.0.0",
+  "description": "toast提示",
+  "main": "./index.tsx",
+  "author": "chenjianfang",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "peerDependencies": {
+    "@types/react": "^16.9.31",
+    "@types/react-dom": "^16.9.6",
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  },
+  "bugs": {
+    "url" : "https://www.tapd.cn/20085821/bugtrace/bugs/add?jump_from_shortcut=true",
+    "email" : "jianfang.chen@zhenai.com"
+  }
+}
